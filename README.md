@@ -1,39 +1,30 @@
-# WeatherSafe
+# WeatherSafe: CA1 Submission Documents
 
-## Project Overview
+WeatherSafe is a covert personal-safety app disguised as a weather app. This folder was added to the fork for the CA1 submission. It only adds files. Nothing from the original CA1 repository has been edited or deleted, and the original state is tagged `ca1-original`.
 
-WeatherSafe is a mobile application designed to help people discreetly seek assistance when they feel unsafe. The application resembles a normal weather app but includes a hidden safety feature that allows users to alert trusted contacts without drawing attention.
+**Organisation:** Azerra-dkit
+**Team members and roles:** [add names and roles]
+**Module / assessment:** [add module code, CA1]
 
-## Project Aim
+## Documents
 
-To explore and develop a discreet way for users to communicate their need for help and share relevant location and incident information with trusted contacts.
+| Document | Location | Contents |
+| --- | --- | --- |
+| Project brief | [docs/01-project-brief](docs/01-project-brief) | Project summary and scope, team project brief |
+| Proposed software architecture | [docs/02-software-architecture](docs/02-software-architecture) | Architecture and technical feasibility research |
+| Security considerations | [docs/03-security-considerations](docs/03-security-considerations) | Security and privacy review |
+| Prototype | [docs/04-prototype](docs/04-prototype) | Figma prototype, interaction flow and wireframes |
 
-## Key Features
+Each document is provided as Word and PDF. GitHub previews the PDF versions in the browser.
 
-- Weather application interface.
-- Hidden safety activation method.
-- Trusted contact setup and notifications.
-- User-controlled location sharing.
-- Incident status updates for trusted contacts.
+## Related repositories
 
-## Current Project Stage
+The Frontend, Backend, UI-UX and Security repositories are in the Azerra-dkit organisation. Add links here if they are public or shared with the markers.
 
-Research, planning and prototyping.
+## How to check the original state
 
-## Project Scope
+```
+git diff --name-status ca1-original HEAD
+```
 
-The initial focus is on researching requirements, exploring suitable technologies, considering security and privacy, and developing a clickable prototype demonstrating the main user journey.
-
-## Technology Considerations
-
-Potential technologies include Flutter or React Native, on-device machine learning, and secure communication methods. These options are still being researched and have not yet been finalised.
-
-## Repository Purpose
-
-This repository will contain the project's documentation, research, proposed software architecture, security considerations and prototype materials.
-
----
-
-**Project:** WeatherSafe  
-**Status:** Research and Prototyping  
-**Date:** October 2026
+Every line should start with `A` (added). Any `M` or `D` means an original file was changed or removed.
