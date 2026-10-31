@@ -3,9 +3,18 @@
 WeatherSafe is a covert personal-safety app disguised as a weather app. This folder was added to the fork for the CA1 submission. It only adds files. Nothing from the original CA1 repository has been edited or deleted, and the original state is tagged `ca1-original`.
 
 **Organisation:** Azerra-dkit
-**Team members and roles:** [Ben Musemburi (Project Lead | Scrum Master | UX/UI), Eyob Gebrekidan (Lead Backend | Database), Priyanka (), Ikram Abbas(Lead Front End  |  Back End & Security ), David Moses-Ailemen Ibukunoluwa (Lead Security Developer)]
-**Module / assessment:** [ collaborative project / Concept]
 
+**Team members and roles:**
+
+| Name | Role |
+| --- | --- |
+| Ben Musemburi | Project Lead, Scrum Master, UX/UI |
+| Eyob Gebrekidan | Lead Backend, Database |
+| Priyanka [surname] | [role] |
+| Ikram Abbas | Lead Front End, Back End and Security |
+| David Moses-Ailemen Ibukunoluwa | Lead Security Developer |
+
+**Module / assessment:** Collaborative Project, CA1 (Concept)
 ## Documents
 
 | Document | Location | Contents |
