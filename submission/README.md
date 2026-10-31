@@ -28,9 +28,7 @@ Each document is provided as Word and PDF. GitHub previews the PDF versions in t
 
 ## Related repositories
 
-The Frontend, Backend, UI-UX and Security repositories are in the Azerra-dkit organisation. Add links here if they are public or shared with the markers.
-
-## How to check the original state
+The Frontend, Backend, UI-UX and Security repositories are in the Azerra-dkit organisation. 
 
 ```
 git diff --name-status ca1-original HEAD
