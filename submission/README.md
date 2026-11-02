@@ -23,6 +23,7 @@ WeatherSafe is a covert personal-safety app disguised as a weather app. This fol
 | Proposed software architecture | [docs/02-software-architecture](docs/02-software-architecture) | Architecture and technical feasibility research |
 | Security considerations | [docs/03-security-considerations](docs/03-security-considerations) | Security and privacy review |
 | Prototype | [docs/04-prototype](docs/04-prototype) | Figma prototype, interaction flow and wireframes |
+| Project presentation | [docs/05-project-presentation](docs/05-project-presentation) | Final CA1 presentation (Canva link) |
 
 Each document is provided as Word and PDF. GitHub previews the PDF versions in the browser.
 
